@@ -3,7 +3,7 @@
     <title>test</title>
     <link href="https://csanan-bo1.github.io/nblm-journey/feed.xml" rel="self" />
     <link href="https://csanan-bo1.github.io/nblm-journey" />
-    <updated>2025-12-17T12:24:50+07:00</updated>
+    <updated>2025-12-17T12:32:10+07:00</updated>
     <author>
         <name>csanan</name>
     </author>
@@ -20,7 +20,7 @@
         <updated>2025-12-17T11:02:32+07:00</updated>
             <summary type="html">
                 <![CDATA[
-                    what does nblm stand for?
+                    what does nblm stand for? this is my first nblm here nblm stand for notebooklm in my classroom
                 ]]>
             </summary>
         <content type="html">
@@ -33,6 +33,14 @@
     <h2 id="test-nblm">
       test NBLM
     </h2>
+
+  <p>
+    this is my first nblm here
+  </p>
+
+  <p>
+    nblm stand for notebooklm in my classroom
+  </p>
 
   <p>
     
