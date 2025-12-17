@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "test",
+    "description": "",
+    "home_page_url": "https://csanan-bo1.github.io/nblm-journey",
+    "feed_url": "https://csanan-bo1.github.io/nblm-journey/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "csanan"
+    },
+    "items": [
+        {
+            "id": "https://csanan-bo1.github.io/nblm-journey/nblm.html",
+            "url": "https://csanan-bo1.github.io/nblm-journey/nblm.html",
+            "title": "NBLM",
+            "summary": "what does nblm stand for?",
+            "content_html": "\n  <p>\n    what does nblm stand for?\n  </p>\n\n    <h2 id=\"test-nblm\">\n      test NBLM\n    </h2>\n\n  <p>\n    \n  </p>",
+            "author": {
+                "name": "csanan"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-12-17T11:02:32+07:00",
+            "date_modified": "2025-12-17T12:24:50+07:00"
+        }
+    ]
+}

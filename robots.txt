@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://csanan-bo1.github.io/nblm-journey/sitemap.xml
